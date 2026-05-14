@@ -66,4 +66,4 @@ npm run testar-equilibrio -- --locutor="oloko-bicho"
 
 
 
-![eu jogando fall guys](/obj/imagem.jpg) 
+![eu jogando fall guys](image.jpg) 
