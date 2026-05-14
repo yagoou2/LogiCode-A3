@@ -62,5 +62,8 @@ npm run testar-equilibrio -- --locutor="oloko-bicho"
 - npm v999+
 - Docker (Obrigatorio)
 
+- <img width="705" height="386" alt="image" src="https://github.com/user-attachments/assets/2f9656a8-0cbc-4b15-bbd4-99582dddc54b" />
+
+
 
 ![eu jogando fall guys](/obj/imagem.jpg) 
